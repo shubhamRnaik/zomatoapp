@@ -1,0 +1,92 @@
+[ {
+    
+    "Bangalore":[
+        {
+            "idMeal": 0,
+            "strMeal": "Gobi Manchurian",
+            "strCategory": "Vegetarian",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2016/03/dsc_0053.jpg",
+            "strTags": "Gobi"
+        },
+        {
+            "idMeal": 1,
+            "strMeal": "Mangalore Buns",
+            "strCategory": "Vegetarian",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/01/mangalore-sweet-buns.jpg",
+            "strTags": "buns"
+        },
+        {
+            "idMeal": 2,
+            "strMeal": "Uttapam",
+            "strCategory": "Vegetarian",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/03/Uttappam-In-Bangalore-400x227.jpg",
+            "strTags": "Uttapam"
+        },
+        {
+            "idMeal": 3,
+            "strMeal": "Kebab",
+            "strCategory": "Chicken",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/01/chicken-wraps.jpg",
+            "strTags": "Kebab"
+        },
+        {
+            "idMeal": 4,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal":5,
+            "strMeal": "Pani Puri",
+            "strCategory": "Vegetarian",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/01/paani-puri.jpg",
+            "strTags": "chaats"
+        },
+        {
+            "idMeal": 6,
+            "strMeal": "Shawarma",
+            "strCategory": "Chicken",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/10/Shawarma-e1580404668968.jpg",
+            "strTags": "rolls"
+        },
+        {
+            "idMeal": 7,
+            "strMeal": "Biryani",
+            "strCategory": "Chicken",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/05/Untitled-Design-15-400x229.jpg",
+            "strTags": "Biryani"
+        },
+        {
+            "idMeal": 8,
+            "strMeal": "Rava Idli",
+            "strCategory": "Vegetarian",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://superrlife.com/wp-content/uploads/2021/09/MTR-1924-edited-feature-696x392.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 9,
+            "strMeal": "Masala Dosa",
+            "strCategory": "Vegetarian",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://static.toiimg.com/thumb/54289752.cms?imgsize=495844&width=509&height=340",
+            "strTags": "dosa"
+        },
+        {
+            "idMeal": 10,
+            "strMeal": "Full Meals",
+            "strCategory": "Vegetarian",
+            "strArea": "Bangalore",
+            "strMealThumb": "https://www.india.com/wp-content/uploads/2017/04/Iyer-Mess.jpg",
+            "strTags": "meals"
+        }
+]} ]

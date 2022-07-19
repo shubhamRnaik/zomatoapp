@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: Okra, Helvetica, sans-serif;
+
+}
+section {
+width: 100%;
+padding: 90px;
+
+}
+section article{
+   max-width: 80%;
+width: 100%;
+margin: 0 auto;
+display: flex;
+gap: 5px;
+}
+
+section article div:nth-child(1) img{
+    height: 355px;
+    width: 650px;
+}
+section article aside:nth-of-type(1) img{
+    height: 175px;
+    width: 200px;
+    gap: 5px;
+}
+section article aside:nth-of-type(2) img{
+    height: 175px;
+    width: 200px;
+     
+}
+section article aside:nth-of-type(2) div:nth-child(1){
+    background: linear-gradient(rgba(189, 188, 188));
+    
+}
+section article aside:nth-of-type(2) div:nth-child(2){
+    height: 175px;
+    width: 200px;
+    border: 1px solid;
+    background: rgb(189, 188, 188);
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+.hotelInfo{
+    max-width: 80%;
+    width: 100%;
+    margin: 0 auto; 
+}
+.hotelName{
+    margin-top: 10px;
+}
+.hotelName h1{
+    font-size: 35px;
+    letter-spacing: 1px;
+    color: rgb(36, 33, 33);
+    font-weight: 300;
+}
+.hotelName p:nth-of-type(1){
+    margin-top: 10px;
+    font-size: 18px;
+    color: rgb(78, 77, 77);
+    font-weight: 100;
+}
+.hotelName p:nth-of-type(2){
+    margin-top: 8px;
+    font-size: 17px;
+    color: rgb(109, 108, 108);
+    font-weight: 100;
+}
+.hotelName p:nth-of-type(3){
+    margin-top: 8px;
+    font-size: 15px;
+    color: rgb(109, 108, 108);
+    font-weight: 100;
+}
+.hotelName p:nth-of-type(3) span{
+    color: rgb(244, 162, 102);
+}
+.hotelTime{
+    display: flex;
+margin-top: 15px;
+gap: 10px;
+}
+.hotelTime div{
+    border: 1px solid rgb(109, 108, 108);
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 15px;
+}
+.hotelTime div i{
+   margin-right: 10px;
+}

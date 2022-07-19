@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#main_Wrapper{
+
+    height: 100vh;
+    width: 100%;
+}
+
+
+.main_section{
+    height: 100%;
+    width: 100%;
+}
+
+.navbar_section{
+    height: 200px;
+    width: 80%;
+   margin: 0 auto;
+}
+
+
+.navbar_section >aside{
+    display: flex;
+    height: 200px;
+    padding: 20px;
+    gap: 15px;
+    
+}
+.navbar_section >.navSecondPart{
+    display: flex;
+    width: 20%;
+    
+}
+
+.navbar_section >.navFirstPart{
+    width: 80%;
+    border: 1px solid black;
+    height: 200px;
+}

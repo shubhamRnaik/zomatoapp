@@ -1,0 +1,129 @@
+{
+    "panjim":[
+       {
+            "idMeal": 1,
+            "strMeal": "prawns",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/dea/cde8149d1f0e20369e0e144fbbdccdea.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 2,
+            "strMeal": "prawns",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/0ce/b5e918ea84dbed0cedca61d987c8b0ce.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 3,
+            "strMeal": "chicken",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/80b/f59af1a9f0f691ae64aa7046f5cfd80b.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 4,
+            "strMeal": "chicken",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/c84/5d9b20c2ebddf794a8d501b024a4ac84.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 5,
+            "strMeal": "chicken",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/b03/3c0d2b44da0f958a69284b2a69c88b03.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 6,
+            "strMeal": "fish",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/pictures/2/50712/abb31cfa1cf3f29d7fc576935cbfa3b6_o2_featured_v2.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 7,
+            "strMeal": "fish",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/ed6/ed7e4e4591362384300f846c819c6ed6.png?output-format=webp"
+        },
+        {
+            "idMeal": 8,
+            "strMeal": "fish",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/pictures/5/20016635/bae5332c13de2e1df091fee03556efe4_o2_featured_v2.jpg"
+        },
+        {
+            "idMeal": 8,
+            "strMeal": "fish",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/pictures/5/20016635/bae5332c13de2e1df091fee03556efe4_o2_featured_v2.jpg"
+        },
+        {
+            "idMeal": 10,
+            "strMeal": "dosa",
+            "strCategory": "Chicken",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg"
+        }
+        
+        
+    ],
+    "bangalore":[
+        {
+            "idMeal": 1,
+            "strMeal": "dosa",
+            "strCategory": "veg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/5eb/7df78a0c7c01bdaa246a2b4195c495eb.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 2,
+            "strMeal": "dosa",
+            "strCategory": "veg",
+            "strMealThumb": "https://b.zmtcdn.com/data/pictures/4/19574194/4fe096dc1e72372ebb01849d6416701e_o2_featured_v2.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 3,
+            "strMeal": "dosa",
+            "strCategory": "veg",
+            "strMealThumb": "https://b.zmtcdn.com/data/pictures/5/19422875/14bb38a6e3fc9e743d4996aa0ef02993_o2_featured_v2.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 4,
+            "strMeal": "idli",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/f83/11231fbabddd0da789859968d2a0ef83.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 5,
+            "strMeal": "idli",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/d29/94052d445fdc5c5928dd6070b4947d29.png?output-format=webp"
+        },
+        {
+            "idMeal": 6,
+            "strMeal": "fish",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/pictures/2/50712/abb31cfa1cf3f29d7fc576935cbfa3b6_o2_featured_v2.jpg?output-format=webp"
+        },
+        {
+            "idMeal": 7,
+            "strMeal": "fish",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/dish_photos/ed6/ed7e4e4591362384300f846c819c6ed6.png?output-format=webp"
+        },
+        {
+            "idMeal": 8,
+            "strMeal": "fish",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/pictures/5/20016635/bae5332c13de2e1df091fee03556efe4_o2_featured_v2.jpg"
+        },
+        {
+            "idMeal": 8,
+            "strMeal": "fish",
+            "strCategory": "nonveg",
+            "strMealThumb": "https://b.zmtcdn.com/data/pictures/5/20016635/bae5332c13de2e1df091fee03556efe4_o2_featured_v2.jpg"
+        },
+        {
+            "idMeal": 10,
+            "strMeal": "uttapam",
+            "strCategory": "Chicken",
+            "strMealThumb": "https://b.zmtcdn.com/data/o2_assets/8dc39742916ddc369ebeb91928391b931632716660.png"
+        }
+    ]
+    
+}

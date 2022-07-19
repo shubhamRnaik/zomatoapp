@@ -1,0 +1,266 @@
+{
+    "panjim":[
+        {
+            "idMeal": 0,
+            "city": "bangalore",
+            "category":"fish",
+            "Area": "basavangudi",
+            "image1": "./images2/img1.avif",
+            "image2":"./images2/img2.avif",
+            "image3":"./images2/img3.avif",
+            "image4":"./images2/img4.avif",
+            "image5":"./images2/img5.avif",
+            "hotelName":"Madhurai dosa shop",
+            "type":"sounth Indian",
+            "rating":"2.5"
+        },
+        {
+            "idMeal": 1,
+            "city": "bangalore",
+            "category":"dosa",
+            "Area": "basavangudi",
+            "image1": "./images2/img1.avif",
+            "image2":"./images2/img2.avif",
+            "image3":"./images2/img3.avif",
+            "image4":"./images2/img4.avif",
+            "image5":"./images2/img5.avif",
+            "hotelName":"ramrai shop",
+            "type":"sounth Indian",
+            "rating":"3"
+        },
+        {
+            "idMeal": 3,
+            "city": "bangalore",
+            "category":"dosa",
+            "Area": "basavangudi",
+            "image1": "./images2/img1.avif",
+            "image2":"./images2/img2.avif",
+            "image3":"./images2/img3.avif",
+            "image4":"./images2/img4.avif",
+            "image5":"./images2/img5.avif",
+            "hotelName":"Madhurai dosa shop",
+            "type":"sounth Indian",
+            "rating":"2.5"
+        },
+        {
+            "idMeal": 3,
+            "strMeal": "idli",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 4,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal":5,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 6,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 7,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 8,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 9,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 10,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 11,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 12,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 13,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 14,
+            "strMeal": "fish",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "data:image/jpeg;base64,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",
+            "strTags": "Pasta"
+        }
+        
+    ],
+    "bangalore":[
+        {
+            "idMeal": 0,
+            "strMeal": "dosa",
+            "strCategory": "fish",
+            "strArea": "Thai",
+            "strMealThumb": "data:image/jpeg;base64,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",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 1,
+            "strMeal": "dosa",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 2,
+            "strMeal": "dosa",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 3,
+            "strMeal": "noodles",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 4,
+            "strMeal": "dosa",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal":5,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 6,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 7,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 8,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 9,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 10,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 11,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 12,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 13,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        },
+        {
+            "idMeal": 14,
+            "strMeal": "Pad See Ew",
+            "strCategory": "Chicken",
+            "strArea": "Thai",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+            "strTags": "Pasta"
+        }
+    ]
+    
+}

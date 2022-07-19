@@ -1,0 +1,310 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;   
+ font-family: Okra,Helvetica,sans-serif;
+}
+
+:root{
+    --address_color:rgb(105, 105, 105);
+}
+
+#first_page
+{
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+
+
+/* <!-- filter coffee  start hear --> */
+.top_part{
+    display: flex;
+    height: 23%;
+/* width: 80%; */
+margin: 0 auto;
+justify-content: space-between;}
+
+.top_part>div>h1{
+    width: 115%;
+    margin: 2%;
+    font-size: 35px;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+.top_part>div>p
+{
+    color: var(--address_color);
+}
+.rating{
+    
+    justify-content: space-evenly;
+    width: 25%;
+    display: flex;
+}
+.rating > div{align-items: flex-start;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    gap: 16%;
+}
+.rating > div>h5{width: 52%;
+    border-radius: 5px;
+    height: 18%;
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-size: 130%;
+}
+.rating > div>div >p{
+    font-size: 12px;
+
+}
+
+.lifepart >ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-between;
+    width: 70%;
+    font-size: 33px;
+    color: grey;
+    font-weight: 500;
+    padding: 10px;
+}
+/* .lifepart >ul>li{
+    /* border-bottom: 9px solid red; */
+} */
+
+.middle{
+    /* position: absolute; */
+    /* top: 140px; */
+    /* width: 100%;
+    top: 800px; */
+
+}
+
+/* .middle > ul{
+    padding: 1%;
+    font-size:30px;
+    color: var(--address_color);
+    list-style: none;
+    gap: 6%;
+    display: flex;
+    width: 100%;
+} */
+
+/* <!-- side bar 9 menu start hear --> */
+.down_part{
+    display: flex;
+}
+
+.down_part >.leftSide{
+    line-height: 315%;
+    width: 25%;
+}
+
+
+
+
+/*  style by shubham  */
+
+.rightSide{
+    width:75%;
+    padding: 10px;
+    overflow-y: scroll;
+ scroll-behavior: smooth;
+ height: 700px;
+}
+.leftSide{
+    outline: none;
+    
+}
+#full_wrapper{
+    overflow: hidden;
+}
+
+.middle {
+    position: fixed;
+}
+
+.leftSide >ul{
+overflow-y: scroll;
+ scroll-behavior: smooth;
+ width: 100%;
+ height: 700px;
+ text-decoration: none;
+ border: none;
+}
+
+.leftSide >ul>li{
+    padding: 10px;
+    font-size: 22px;
+    color: gray;
+    letter-spacing:1px;
+    
+    
+}
+
+.leftSide >ul>li:hover{
+    color: rgb(239, 79, 95);
+    border-right: 3px solid rgb(239, 79, 95);
+    background: linear-gradient(90deg, rgb(255, 255, 255), rgb(255, 237, 239));
+}
+/*  within side bar the design for top part  */
+.sectionpartone{
+    width: 100%;
+    
+}
+
+.sectionpartone>.firstSection{
+    font-size: 70%;
+    font-size: 33px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.sectionpartone>.firstSection >.searchSection1{
+  
+    border: 1px solid gray;
+    padding: 10px 70px;
+    border-radius: 12px;
+}
+
+.sectionpartone>.firstSection >.searchSection1>input{
+    border: none;
+    padding: 10px;
+}
+
+.sectionpartone>.firstSection >.searchSection1>input:focus{
+   outline: none;
+}
+
+buttonSection{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.buttonSection>button{
+    padding: 20px 7px;
+    margin-right: 10px;
+    
+    color: white;
+    border: none;
+    font-size: medium;
+    border-radius: 4px;
+    padding-right: 20px;
+    margin-bottom: 10px;
+    box-shadow: rgb(54 54 54 / 6%) 0px 1px 2px;
+    overflow: hidden;
+    background: rgb(17, 85, 203);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    
+}
+
+.vegSection{
+ font-size: 22px;
+ padding: 7px;
+ color: grey;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: grey; 
+  }
+
+  ::-webkit-scrollbar-thumb {
+  }
+
+
+  .sectionpart{
+    display: flex;
+    gap:30px;   
+    padding: 30px 7px; 
+  }
+
+  .sectionpart >.partSecond{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  .psection{
+    font-size: 22px;
+    color: grey;
+  }
+  .headingPart{
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: rgba(0, 0, 0, 0.541);
+
+  }
+
+  .Spicy{
+    height: 40px;
+    width: 50px;
+    padding: 10px;
+    color: white;
+    background-color:rgb(224, 53, 70);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .Veg{
+    height: 40px;
+    width: 50px;
+    padding: 10px;
+    color: white;
+    background-color: rgba(0, 128, 0, 0.815);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .money>h3{
+    color: grey;
+    font-size: 22px;
+  }
+
+
+  .newDivision{
+    font-size: 32px;
+    color: black;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    font-weight: 100;
+    padding: 10px 0;
+
+  }
+
+  .Track{
+     font-size: 22px;
+     padding: 10px;
+     color: grey;
+  }
+
+  input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  transform: scale(2);
+  padding: 10px;
+  padding-right: 10px;
+}

@@ -1,0 +1,58 @@
+{
+
+
+    "Brahmins":[
+
+        {
+            "idMeal": 0,
+            "city": "bangalore",
+            "category":"fish",
+            "Area": "basavangudi",
+            "image1": "https://b.zmtcdn.com/data/pictures/chains/1/50011/d9207d682046c8e1a8de44da15b5d624.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "image2":"https://b.zmtcdn.com/data/pictures/chains/1/50011/720af8adb52e4d8c558b7aa8e5085747.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+            "image3":"./images2/img3.avif",
+            "image4":"./images2/img4.avif",
+            "image5":"./images2/img5.avif",
+            "hotelName":"Brahmins resturants",
+            "type":"sounth Indian",
+            "rating":"2.5"
+        }
+    ],
+    "Priyadarshini":[
+
+        {
+            "idMeal": 1,
+            "city": "bangalore",
+            "category":"fish",
+            "Area": "basavangudi",
+            "image1": "https://b.zmtcdn.com/data/dish_photos/52a/429f57be13768e53de9795190b45252a.jpg?output-format=webp",
+            "image2":"https://b.zmtcdn.com/data/dish_photos/d08/41f59dc247fe39ddc93c34d3d6dc8d08.jpg?output-format=webp",
+            "image3":"https://b.zmtcdn.com/data/pictures/chains/3/19967273/3adb6379bfeeed4015fb61564fb1458f.jpg?fit=around|300:273&crop=300:273;*,*",
+            "image4":"https://b.zmtcdn.com/data/dish_photos/a08/cc5fea4d858663710aa1765058193a08.jpg?output-format=webp",
+            "image5":"./images2/img5.avif",
+            "hotelName":"Priyadarshini",
+            "type":"sounth Indian",
+            "rating":"2.5"
+        }
+
+    ],
+"Paakashala":[
+
+{
+    "idMeal": 2,
+            "city": "bangalore",
+            "category":"fish",
+            "Area": "basavangudi",
+            "image1": "https://b.zmtcdn.com/data/dish_photos/50c/8b830671b851a7f3eae127f86c0c550c.jpg?output-format=webp",
+            "image2":"https://b.zmtcdn.com/data/dish_photos/456/0cc267b82d9f8276243c8af77a61b456.jpg",
+            "image3":"https://b.zmtcdn.com/data/pictures/chains/3/19967273/3adb6379bfeeed4015fb61564fb1458f.jpg?fit=around|300:273&crop=300:273;*,*",
+            "image4":"https://b.zmtcdn.com/data/dish_photos/a08/cc5fea4d858663710aa1765058193a08.jpg?output-format=webp",
+            "image5":"./images2/img5.avif",
+            "hotelName":"Paakashala",
+            "type":"sounth Indian",
+            "rating":"2.5"
+}
+
+    
+]
+}
